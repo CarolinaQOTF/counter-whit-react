@@ -62,12 +62,12 @@ const Seconds = (props) => {
 	);
 };
 
-// Home.propTypes = {
-// 	digit1: propTypes.number,
-// 	digit2: propTypes.number,
-// 	digit3: propTypes.number,
-// 	digit4: propTypes.number,
-// };
+Seconds.propTypes = {
+	digitOne: propTypes.number,
+	digitTwo: propTypes.number,
+	digitThree: propTypes.number,
+	digitFour: propTypes.number,
+};
 let counter = 0;
 
 function contar() {
