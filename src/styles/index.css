@@ -10,3 +10,19 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+button{
+    
+    margin: 50px;
+}
+
+#ContenedorGeneral{
+    margin-top: 70px;
+   
+}
+
+.fa-react:before{
+    
+    margin: 20px;
+    color: rgb(83, 135, 203,1);
+}
